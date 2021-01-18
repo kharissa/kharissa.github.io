@@ -1,0 +1,60 @@
+I"<p>Over the past few years I have rediscovered my love for learning.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th style="text-align: center">Course</th>
+      <th style="text-align: right">Certificate URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HarvardX</td>
+      <td style="text-align: center">right-aligned</td>
+      <td style="text-align: right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td style="text-align: center">centered</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td style="text-align: center">are neat</td>
+      <td style="text-align: right">$1</td>
+    </tr>
+    <tr>
+      <td>HarvardX</td>
+      <td style="text-align: center">CS50’s Introduction to Computer Science</td>
+      <td style="text-align: right">[Certificate][cs50]</td>
+    </tr>
+    <tr>
+      <td>The University of Sydney</td>
+      <td style="text-align: center">Introduction to Calculus</td>
+      <td style="text-align: right">[Certificate][intro-calc]</td>
+    </tr>
+    <tr>
+      <td>University of Pennsylvania</td>
+      <td style="text-align: center">Computational Thinking for Problem Solving</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>UC San Diego</td>
+      <td style="text-align: center">Mathematical Thinking in Computer Science</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Arizona State University</td>
+      <td style="text-align: center">Operating Systems</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Arizona State University</td>
+      <td style="text-align: center">Data Structures and Algorithms</td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

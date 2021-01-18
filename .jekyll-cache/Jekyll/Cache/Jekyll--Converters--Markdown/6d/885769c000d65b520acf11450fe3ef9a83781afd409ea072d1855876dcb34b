@@ -1,0 +1,51 @@
+I"0
+<p>Over the past few years I have rediscovered my love for learning. I love to</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th style="text-align: center">Course</th>
+      <th style="text-align: right">Certificate URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HarvardX</td>
+      <td style="text-align: center">CS50 Introduction to Computer Science</td>
+      <td style="text-align: right">Certificate</td>
+    </tr>
+    <tr>
+      <td>The University of Sydney</td>
+      <td style="text-align: center"><a href="https://www.coursera.org/learn/introduction-to-calculus">Introduction to Calculus</a></td>
+      <td style="text-align: right"><a href="https://coursera.org/share/d6a66cd195663e04cf5ce5750c3203c2">Certificate</a></td>
+    </tr>
+    <tr>
+      <td>University of Pennsylvania</td>
+      <td style="text-align: center"><a href="https://www.coursera.org/learn/computational-thinking-problem-solving">Computational Thinking for Problem Solving</a></td>
+      <td style="text-align: right"><a href="https://coursera.org/share/3ea01984d2ab9b8c28501683e4ebc990">Certificate</a></td>
+    </tr>
+    <tr>
+      <td>UC San Diego</td>
+      <td style="text-align: center"><a href="https://www.coursera.org/learn/what-is-a-proof">Mathematical Thinking in Computer Science</a></td>
+      <td style="text-align: right"><a href="https://coursera.org/share/39798468286a9893ab0132aa8b6f2341">Certificate</a></td>
+    </tr>
+    <tr>
+      <td>Arizona State University</td>
+      <td style="text-align: center"><a href="https://courses.cpe.asu.edu/browse/mcs/courses/cpe-cidse-103">Operating Systems</a></td>
+      <td style="text-align: right"><a href="https://courses.cpe.asu.edu/certificates/operating-systems-13447.pdf">Certificate</a></td>
+    </tr>
+    <tr>
+      <td>Arizona State University</td>
+      <td style="text-align: center"><a href="https://courses.cpe.asu.edu/browse/mcs/courses/cpe-cidse-102">Data Structures and Algorithms</a></td>
+      <td style="text-align: right"><a href="https://courses.cpe.asu.edu/certificates/data-structures-and-algorithms-13658.pdf">Certificate</a></td>
+    </tr>
+    <tr>
+      <td>Next Academy</td>
+      <td style="text-align: center"><a href="https://www.nextacademy.com/quantum-degrees/coding/full-time/full-stack-web-development">Full Stack Web Development Quantum Degree</a></td>
+      <td style="text-align: right"><a href="http://s3-ap-southeast-1.amazonaws.com/next-academy-site/uploads/certificates/kharissa-fernando-smith-8f33967a-8164-4481-bd2f-c8e9d7d7ac5e/c0382b744c">Certificate</a></td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
