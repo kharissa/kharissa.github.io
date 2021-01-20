@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Covid Vaccine Update"
+date:   2021-01-19 20:15:18 -0600
+categories: covid update
+---
+
+I am keeping tabs on the rollout of the COVID-19 vaccine in Stanislaus County, California on behalf of my 65+ year-old parents, who are residents of said county. Incredibly, it has been enormously difficult in finding out just exactly where the vaccine is available to the public.
+
+The Stanislaus County Health Service Agency has been using [Facebook](https://www.facebook.com/StanEmergency/) to post regular updates on their vaccine roll-out. Unfortunately as of 19 January 2020, they have suspended their vaccination services [pending investigation of Moderna Lot 041L20A](https://www.kcra.com/article/california-urges-providers-to-halt-use-of-batch-of-moderna-vaccines/35245079#). I had originally recommended my parents to get vaccinated by the HSA last week, but it is walk-in only. As a result, there were reports of very long wait times and senior citizens started lining up in the parking lot (in the cold!) at 3:30 AM. Strike one.
+
+Alternatively, the HSA told the public to ask their "medical provider" about the vaccine. My parents did call their physician in Modesto, however after several days of "*We'll put your name on a list and we'll let you know*", they were finally notified that their medical practice will not be getting the vaccine after all. Strike two.
+
+Now, here's the tricky part. There are [news articles](https://fox40.com/news/local-news/grocery-store-chain-helps-expand-covid-19-vaccination-sites-in-sacramento-stanislaus-counties) about how local pharmacies such as Save Mart has or will have access to the vaccine, but those same articles have not been updated to state whether these sites have paused due to the Moderna lot investigation. It is very difficult to get into contact with anyone at these sites (although, fair, I can't even imagine the amount of calls they are receiving!) to get any type of confirmation whatsoever.
+
+Wouldn't it be nice if the government had some type of — oh I don't know! — centralized database of all vaccination sites and helpful information as to which ones take appointments?  Public walk-in vaccination sites are good, but appointments for our seniors who may have mobility / medical issues and cannot stay for hours in the cold are much, much better.
+
+As far as I'm aware, the state does not have such a database (at least one that is public), but [a group of private volunteers are building one](https://www.vaccinateca.com/vaccination-sites). And they are making an effort to call each site in order to confirm inventory and if they're taking appointments. I've already contacted them with additional info on potential sites they have missed in their list. Hopefully this grows into the de-facto resource. The more data they have, the more helpful it can be. Unfortunately for Stanislaus County, I'm not seeing any available private vaccination sites. It looks like we will need to wait for this investigation to complete, which requires a separate blog post. 
+
+I hope to report back with good information soon. 
+
+
+
+
+

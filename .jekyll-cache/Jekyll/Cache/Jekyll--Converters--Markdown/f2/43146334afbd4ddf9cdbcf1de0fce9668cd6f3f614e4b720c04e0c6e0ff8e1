@@ -1,0 +1,61 @@
+I"X<h3 id="bodysmart"><a href="https://www.bodysmartapp.com/">BodySmart</a></h3>
+
+<p><img src="/assets/img/bodysmart.png" alt="Screenshot of BodySmart" /></p>
+<ul>
+  <li>A fitness planning, tracking, and coaching progressive web app using React, Python, and PostgreSQL.</li>
+  <li>The app provides a workout plan that is customized to the user’s available gym equipment and workout duration.</li>
+  <li>Users can then “start” their workout through the app, which trains them on each exercise while a custom timer
+counts down.</li>
+  <li>At the end of the workout, users can take pictures (image uploading via Amazon S3) to track their
+progress.</li>
+  <li>Propietary database of more than 2,000 activities, each with their own page for SEO.</li>
+</ul>
+
+<hr />
+
+<h3 id="peek"><a href="https://www.peek.com/pro/">Peek</a></h3>
+
+<p><img src="/assets/img/peek.png" alt="Screenshot of Peek" /></p>
+<ul>
+  <li>Developed front-end features in React - Redux for customer-facing activity marketplace, translating UX wireframes and mockups</li>
+  <li>Built Peek.com Google Assistant app</li>
+  <li>Product Manager for Peek.com team, and later, the growth team developing features for mid-market customers</li>
+  <li>Wrote product specs, scope definitions, and led roadmap &amp; GTM planning</li>
+  <li>Created and implemented product processes across the company relating
+to internal communication, external communication, filing product improvement requests, and handling customer offboarding</li>
+</ul>
+
+<hr />
+
+<h3 id="gogaigai-personal-safety-app">GoGaiGai Personal Safety App</h3>
+
+<p><img src="/assets/img/gogaigai.jpg" alt="Screenshot of GoGaiGai" /></p>
+<ul>
+  <li>A group project that won “Best App” and “Best Pitch” out of four entries to NEXT Academy’s bi-monthly pitch
+night.</li>
+  <li>A safety companion progressive web app aimed for solo travelers built using Python, React, and PostgreSQL.</li>
+  <li>Features included a user-generated crime map, ability to add an itinerary check-in, notification of emergency
+contacts if user is unresponsive to alerts, and mock phone/video calls that allowed the user to discreetly analyze
+their surroundings.</li>
+  <li>Go GaiGai means “to go take a walk” in Cantonese, reflecting its use while exploring a new city.</li>
+  <li>Watch our interview on <a href="https://www.youtube.com/watch?v=eDxSzNyTwog">Youtube</a> or <a href="https://www.nextacademy.com/blog/go-gai-gai-personal-safety-app-for-female-traveler">read about it</a>.</li>
+</ul>
+
+<hr />
+
+<h3 id="instagood"><a href="https://nextagram-react.netlify.app/">Instagood</a></h3>
+
+<p><img src="/assets/img/instagood.png" alt="Screenshot of Instagood" /></p>
+<ul>
+  <li>Side project creating Instagram with a twist using Python and Flask.</li>
+  <li>Features include sign-up/login (password encryption, authentication, authorization, cookies, sessions, OAuth),
+image uploading using Amazon S3, sending emails using Sendgrid API, handling background jobs with Redis/RQ,
+collecting payments via Braintree, and creating public RESTFUL API endpoints.</li>
+  <li>Challenges included building complex model relationships (e.g. self-referential many-to-many) using PostgreSQL.</li>
+  <li>See code on <a href="https://github.com/kharissa/instagood">Github</a></li>
+</ul>
+
+<hr />
+
+<p>Want to know more? <a href="/assets/resume.pdf">View my resume</a> or <a href="https://github.com/kharissa">Github</a>.</p>
+:ET
