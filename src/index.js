@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { BrowserRouter as Router, Routes, Route}
+import { BrowserRouter, Routes, Route}
     from 'react-router-dom';
 import App from './App';
 import Links from './Links';
@@ -10,12 +10,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
-     <Router>
+     <BrowserRouter>
          <Routes>
-            <Route exact path='/' element={<App />} />
             <Route path='/links' element={<Links/>} />
+            <Route exact path='/' element={<App />} />
         </Routes>
-    </Router>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
