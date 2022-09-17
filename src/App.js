@@ -7,6 +7,9 @@ import Navigation from "./components/Navigation";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 import Emoji from "./components/Emoji";
+import Resume from "./resume.pdf";
+import { Link } from "react-router-dom";
+
 
 function App() {
   return (
@@ -18,11 +21,14 @@ function App() {
         </Col>
         <Col md={5} className="m-2 home-text-container">
           <h4>
-            Hello! My name is <b>Kharissa</b>. I'm graduating with a degree in{" "}
-            <b>Computer Science</b> <Emoji symbol="👩🏽‍💻" label="technologist" />{" "}
-            from <b>Oregon State University</b> in December 2022. I have
-            experience developing <b>data-driven</b> and <b>user-friendly</b>{" "}
-            web apps. Ask me about being a digital nomad{" "}
+            Hi there. <Emoji symbol="👋" label="wave" /> My name is Kharissa and I'm graduating with a B.S. Computer
+            Science from Oregon State University in December 2022. I've
+            previously worked at Lyft, PagerDuty, and Peek. Feel free to
+            explore my projects,  view my <Link to={Resume} target="_blank">resume</Link>, or connect with me on <a
+          href="https://www.linkedin.com/in/kharissafernando/"
+          target="_blank"
+          rel="noreferrer"
+        >LinkedIn</a>. Ask me about being a digital nomad{" "}
             <Emoji symbol="✈️" label="airplane" />, my favorite scuba diving
             sites <Emoji symbol="🐠" label="fish" />, or my volunteer work{" "}
             <Emoji symbol="🤝" label="handshake" />.
