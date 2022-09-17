@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.App {
+  font-family: 'Lato',
+  sans-serif;
+}
+
+.card-title {
+  display: inline;
+  margin-right:10px;
+}
+
+.home-text-container h4{
+  line-height: 1.7em;
+}
+
+.block {
+    width: 100%;
+    display: block;
+}
