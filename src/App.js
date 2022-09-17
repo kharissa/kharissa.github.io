@@ -21,17 +21,16 @@ function App() {
         </Col>
         <Col md={5} className="m-2 home-text-container">
           <h4>
-            Hi there. <Emoji symbol="👋" label="wave" /> My name is Kharissa and I'm graduating with a B.S. Computer
-            Science from Oregon State University in December 2022. I've
+            Hi there. <Emoji symbol="👋" label="wave" /> I'm graduating with a B.S. Computer
+            Science from Oregon State University in December 2022 and I've
             previously worked at Lyft, PagerDuty, and Peek. Feel free to
             explore my projects,  view my <Link to={Resume} target="_blank">resume</Link>, or connect with me on <a
           href="https://www.linkedin.com/in/kharissafernando/"
           target="_blank"
           rel="noreferrer"
         >LinkedIn</a>. Ask me about being a digital nomad{" "}
-            <Emoji symbol="✈️" label="airplane" />, my favorite scuba diving
-            sites <Emoji symbol="🐠" label="fish" />, or my volunteer work{" "}
-            <Emoji symbol="🤝" label="handshake" />.
+            <Emoji symbol="✈️" label="airplane" /> or my favorite scuba diving
+            sites <Emoji symbol="🐠" label="fish" />.
           </h4>
         </Col>
       </Row>
